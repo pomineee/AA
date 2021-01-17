@@ -1,4 +1,4 @@
-package strategy;
+package strategy.duck;
 
 public class Quack implements QuackBehavior{
 
